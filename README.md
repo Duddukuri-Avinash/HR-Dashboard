@@ -126,6 +126,6 @@ See [`HR_Dashboard_Requirements.pdf`](HR_Dashboard_Requirements.pdf) for the ful
 - 📊 Built this project as part of my Tableau portfolio
 ---
 
-## 📜 License
+## 🛡 License
 
-This project is for portfolio and educational purposes.
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
