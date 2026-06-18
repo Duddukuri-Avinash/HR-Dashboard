@@ -7,10 +7,10 @@ A comprehensive HR analytics dashboard built in Tableau, providing both high-lev
 ## 🖼️ Dashboard Preview
 
 ### Overview
-![HR Dashboard Overview](screenshots/overview.png)
+![HR Dashboard Overview](docs/HR%20Dashboard%20overview.png)
 
 ### Employee Records
-![HR Dashboard Details](screenshots/details.png)
+![HR Dashboard Details](docs/HR%20Dashboard%20details.png)
 
 ---
 
@@ -91,15 +91,15 @@ hr-dashboard-tableau/
 │
 ├── LICENSE
 └── README.md
----
+```
 
 ---
 
 ## 🚀 Getting Started
 
 1. Download or clone this repository
-2. Open `HR_Dashboard.twbx` in **Tableau Desktop** or **Tableau Public**
-3. The workbook is self-contained — data is embedded in the `.twbx` file
+2. Open `HR_Dashboard.twx` in **Tableau Desktop** or **Tableau Public**
+3. The dataset is available in the `datasets/` folder as `dataset.csv`
 4. Use the navigation icons on the left sidebar to switch between **Overview** and **Details** views
 
 ---
@@ -116,7 +116,7 @@ hr-dashboard-tableau/
 
 ## 📄 Requirements
 
-See [`HR_Dashboard_Requirements.pdf`](HR_Dashboard_Requirements.pdf) for the full project user story and functional requirements.
+See [`docs/HR_Dashboard_Requirements.pdf`](docs/HR_Dashboard_Requirements.pdf) for the full project user story and functional requirements.
 
 ---
 
@@ -127,8 +127,11 @@ See [`HR_Dashboard_Requirements.pdf`](HR_Dashboard_Requirements.pdf) for the ful
 
 - 🎓 Passionate about data analytics and visualization
 - 📊 Built this project as part of my Tableau portfolio
+- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+- 💻 [GitHub](https://github.com/your-username)
+
 ---
 
-## 🛡 License
+## 📜 License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+This project is for portfolio and educational purposes.
