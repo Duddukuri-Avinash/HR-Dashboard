@@ -119,8 +119,11 @@ See [`HR_Dashboard_Requirements.pdf`](HR_Dashboard_Requirements.pdf) for the ful
 
 ## 👤 Author
 
-Built as a Tableau portfolio project demonstrating HR analytics and data visualization skills.
+**Duddukuri Avinash**
+3rd Year B.Tech Student — RVR & JC College of Engineering
 
+- 🎓 Passionate about data analytics and visualization
+- 📊 Built this project as part of my Tableau portfolio
 ---
 
 ## 📜 License
