@@ -78,20 +78,21 @@ A fully interactive employee list with the following columns:
 ```
 hr-dashboard-tableau/
 │
-├── data/
-│   └── hr_data.csv                  # Source dataset
+├── HR_Dashboard.twx                      # Tableau workbook
+│   └── Human Resource Dashboard pr...   # Packaged data source
 │
-├── screenshots/
-│   ├── overview.png                 # Summary view screenshot
-│   └── details.png                  # Employee records screenshot
+├── datasets/
+│   └── dataset.csv                       # Source HR dataset
 │
-├── HR_Dashboard.twbx                # Packaged Tableau workbook
-├── HR_Dashboard_Requirements.pdf    # Full project requirements
+├── docs/
+│   ├── HR Dashboard details.png          # Employee records screenshot
+│   ├── HR Dashboard overview.png         # Summary view screenshot
+│   └── HR_Dashboard_Requirements.pdf     # Full project requirements
+│
+├── LICENSE
 └── README.md
-```
-
 ---
-
+---
 ## 🚀 Getting Started
 
 1. Download or clone this repository
