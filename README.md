@@ -127,8 +127,6 @@ See [`docs/HR_Dashboard_Requirements.pdf`](docs/HR_Dashboard_Requirements.pdf) f
 
 - 🎓 Passionate about data analytics and visualization
 - 📊 Built this project as part of my Tableau portfolio
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-- 💻 [GitHub](https://github.com/your-username)
 
 ---
 
